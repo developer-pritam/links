@@ -33,9 +33,10 @@
     border-radius: 3vh;
     
     }
-    @media screen and (max-width: 500px){
+    @media screen and (max-width: 300px){
     .links{
         width: 80%;
+       padding: 2vh;
     }
 
   }
